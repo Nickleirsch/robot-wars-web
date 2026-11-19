@@ -1,0 +1,11 @@
+# dependencies and build output
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# compiled console program
+*.exe
+*.o
+robotwars

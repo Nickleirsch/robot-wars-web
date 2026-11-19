@@ -1,0 +1,2123 @@
+Initial battlefield
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  . 
+08  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  .  . 
+09  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Turn 1
+
+Mold - M (Madbot):
+Fired at 2 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 6 x 0 but missed.
+T-1000 - T (Terminator):
+Moved to 14 x 8
+Bast - B (BlueThunder):
+Fired at 8 x 0 but missed.
+Seneca - S (Sentinel):
+Moved to 4 x 6
+Fired at 3 x 4 but missed.
+Fired at 5 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 11 x 9
+Fired at 4 x 4 but missed.
+Fired at 7 x 0 but missed.
+Fired at 1 x 2 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 8
+Fired at 3 x 2 but missed.
+Fired at 1 x 4 but missed.
+Fired at 9 x 1 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 5
+Fired at 3 x 16 but missed.
+Fired at 17 x 10 but missed.
+Fired at 6 x 9 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 17
+Fired at 4 x 12 but missed.
+Fired at 11 x 17 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  . 
+07  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 0
+Sentinel	|Seneca		|S	| 0	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 2
+
+Mold - M (Madbot):
+Fired at 2 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 1 x 12 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 8
+Bast - B (BlueThunder):
+Fired at 8 x 0 but missed.
+Seneca - S (Sentinel):
+Moved to 5 x 6
+Fired at 1 x 7 but missed.
+Fired at 5 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 8
+Fired at 2 x 7 but missed.
+Fired at 5 x 0 but missed.
+Fired at 7 x 3 but missed.
+Chrono - C (T-RoboCop):
+Moved to 8 x 7
+Fired at 3 x 0 but missed.
+Fired at 2 x 3 but missed.
+Fired at 5 x 3 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 6
+Fired at 8 x 1 but missed.
+Fired at 5 x 12 but missed.
+Fired at 9 x 17 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 5 x 17
+Fired at 17 x 18 but missed.
+Fired at 1 x 18 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  N  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  .  .  . 
+09  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 0
+Sentinel	|Seneca		|S	| 0	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 3
+
+Mold - M (Madbot):
+Fired at 4 x 6 but missed.
+Orion - O (RoboTank):
+Fired at 8 x 6 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 0 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 5
+Fired at 5 x 5 but missed.
+Fired at 5 x 5 but missed.
+Ra-One - R (RoboCop):
+Moved to 9 x 9
+Fired at 1 x 6 but missed.
+Fired at 2 x 7 but missed.
+Fired at 5 x 3 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 8
+Fired at 2 x 4 but missed.
+Fired at 0 x 5 but missed.
+Fired at 2 x 0 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 5
+Fired at 10 x 16 but missed.
+Fired at 1 x 14 but missed.
+Fired at 11 x 15 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 17
+Fired at 12 x 19 but missed.
+Fired at 10 x 16 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  N  .  . 
+07  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  B  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 0
+Sentinel	|Seneca		|S	| 0	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 4
+
+Mold - M (Madbot):
+Fired at 4 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 8 x 10 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 8
+Bast - B (BlueThunder):
+Fired at 8 x 0 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 4
+Fired at 2 x 8 but missed.
+Fired at 3 x 5 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 8
+Fired at 6 x 1 but missed.
+Fired at 2 x 7 but missed.
+Fired at 0 x 8 but missed.
+Chrono - C (T-RoboCop):
+Moved to 6 x 9
+Fired at 4 x 3 but missed.
+Fired at 5 x 0 but missed.
+Fired at 2 x 5 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 4
+Fired at 2 x 15 but missed.
+Fired at 19 x 3 but missed.
+Fired at 14 x 18 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 16
+Fired at 11 x 19 but missed.
+Fired at 14 x 13 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  S  .  .  .  .  C  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 0
+Sentinel	|Seneca		|S	| 0	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 5
+
+Mold - M (Madbot):
+Fired at 2 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 2 x 14 but missed.
+T-1000 - T (Terminator):
+Moved to 12 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 0 but missed.
+Seneca - S (Sentinel):
+Moved to 5 x 5
+Fired at 9 x 0 killing B
+Fired at 6 x 2 but missed.
+Ra-One - R (RoboCop):
+Moved to 9 x 7
+Fired at 3 x 5 but missed.
+Fired at 4 x 2 but missed.
+Fired at 5 x 3 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 9
+Fired at 4 x 4 but missed.
+Fired at 2 x 0 but missed.
+Fired at 2 x 0 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 3
+Fired at 8 x 6 but missed.
+Fired at 12 x 18 but missed.
+Fired at 8 x 8 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 15
+Fired at 17 x 14 but missed.
+Fired at 8 x 4 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Bast 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 1
+Sentinel	|Seneca		|S	| 1	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Bast - B (BlueThunder) is being revived at 8 x 1
+
+Turn 6
+
+Mold - M (Madbot):
+Fired at 3 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 13 x 9 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 9
+Bast - B (BlueThunder):
+Fired at 7 x 1 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 4
+Fired at 0 x 1 but missed.
+Fired at 1 x 8 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 6
+Fired at 6 x 1 but missed.
+Fired at 5 x 5 but missed.
+Fired at 0 x 6 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 8
+Fired at 2 x 2 but missed.
+Fired at 2 x 8 but missed.
+Fired at 6 x 3 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 4
+Fired at 15 x 5 but missed.
+Fired at 10 x 19 but missed.
+Fired at 2 x 12 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 14
+Fired at 18 x 2 but missed.
+Fired at 9 x 6 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  S  .  .  .  .  .  .  .  .  .  N  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  .  . 
+08  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 1
+Sentinel	|Seneca		|S	| 1	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 7
+
+Mold - M (Madbot):
+Fired at 2 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 12 x 18 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 10
+Bast - B (BlueThunder):
+Fired at 7 x 1 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 3
+Fired at 4 x 3 but missed.
+Fired at 3 x 4 but missed.
+Ra-One - R (RoboCop):
+Moved to 11 x 7
+Fired at 2 x 1 but missed.
+Fired at 1 x 6 but missed.
+Fired at 3 x 7 but missed.
+Chrono - C (T-RoboCop):
+Moved to 8 x 9
+Fired at 2 x 1 but missed.
+Fired at 0 x 0 but missed.
+Fired at 2 x 4 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 4
+Fired at 18 x 7 but missed.
+Fired at 11 x 2 but missed.
+Fired at 12 x 11 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 15
+Fired at 12 x 9 but missed.
+Fired at 19 x 17 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  . 
+08  .  B  .  .  .  .  .  .  .  C  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 1
+Sentinel	|Seneca		|S	| 1	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 8
+
+Mold - M (Madbot):
+Fired at 2 x 5 but missed.
+Orion - O (RoboTank):
+Fired at 16 x 0 but missed.
+T-1000 - T (Terminator):
+Moved to 14 x 9
+Bast - B (BlueThunder):
+Fired at 7 x 1 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 4
+Fired at 5 x 1 but missed.
+Fired at 1 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 12 x 8
+Fired at 5 x 1 but missed.
+Fired at 4 x 1 but missed.
+Fired at 5 x 0 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 9
+Fired at 2 x 0 but missed.
+Fired at 4 x 6 but missed.
+Fired at 2 x 2 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 4
+Fired at 19 x 13 but missed.
+Fired at 14 x 17 but missed.
+Fired at 5 x 8 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 16
+Fired at 11 x 16 but missed.
+Fired at 5 x 10 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  C  .  .  .  .  .  .  N  .  .  . 
+08  .  B  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 1
+Sentinel	|Seneca		|S	| 1	| 0
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 0	| 0
+
+Turn 9
+
+Mold - M (Madbot):
+Fired at 3 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 14 x 16 but missed.
+T-1000 - T (Terminator):
+Moved to 14 x 8
+Bast - B (BlueThunder):
+Fired at 7 x 1 but missed.
+Seneca - S (Sentinel):
+Moved to 6 x 3
+Fired at 1 x 7 but missed.
+Fired at 1 x 7 but missed.
+Ra-One - R (RoboCop):
+Moved to 12 x 9
+Fired at 0 x 3 but missed.
+Fired at 2 x 3 but missed.
+Fired at 6 x 2 but missed.
+Chrono - C (T-RoboCop):
+Moved to 6 x 10
+Fired at 6 x 3 killing S
+Fired at 4 x 2 but missed.
+Fired at 6 x 3 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 5
+Fired at 11 x 12 but missed.
+Fired at 15 x 1 but missed.
+Fired at 11 x 12 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 16
+Fired at 8 x 1 killing B
+Fired at 6 x 6 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  M  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  C  .  .  .  .  .  N  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Bast Seneca 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 0
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 1
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 1	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 1	| 0
+
+Bast - B (BlueThunder) is being revived at 9 x 19
+
+Turn 10
+
+Mold - M (Madbot):
+Fired at 4 x 7 but missed.
+Orion - O (RoboTank):
+Fired at 8 x 7 but missed.
+T-1000 - T (Terminator):
+Moved to 14 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Ra-One - R (RoboCop):
+Moved to 11 x 10
+Fired at 5 x 1 but missed.
+Fired at 3 x 7 but missed.
+Fired at 0 x 2 but missed.
+Chrono - C (T-RoboCop):
+Moved to 7 x 11
+Fired at 3 x 6 killing M
+Fired at 2 x 6 but missed.
+Fired at 9 x 0 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 5
+Fired at 17 x 19 but missed.
+Fired at 13 x 18 but missed.
+Fired at 16 x 17 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 17
+Fired at 9 x 6 but missed.
+Fired at 12 x 5 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  .  .  N  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Seneca Mold 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 1
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 1
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 1	| 0
+
+Seneca - S (Sentinel) is being revived at 2 x 3
+
+Turn 11
+
+Orion - O (RoboTank):
+Fired at 18 x 0 but missed.
+T-1000 - T (Terminator):
+Moved to 14 x 8
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 1 x 2
+Fired at 2 x 8 but missed.
+Fired at 0 x 5 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 9
+Fired at 0 x 0 but missed.
+Fired at 4 x 6 but missed.
+Fired at 0 x 4 but missed.
+Chrono - C (T-RoboCop):
+Moved to 6 x 11
+Fired at 0 x 8 but missed.
+Fired at 2 x 1 but missed.
+Fired at 4 x 5 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 16 x 6
+Fired at 6 x 18 but missed.
+Fired at 10 x 2 but missed.
+Fired at 16 x 16 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 16
+Fired at 17 x 17 but missed.
+Fired at 3 x 0 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  S  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  .  N  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Mold 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 1
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 1
+RoboCop		|Ra-One		|R	| 0	| 0
+T-RoboCop	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 0	| 0
+PrimeSentinel	|Nimrod		|N	| 1	| 0
+
+Mold - M (Madbot) is being revived at 16 x 5
+
+Turn 12
+
+Mold - M (Madbot):
+Fired at 15 x 5 but missed.
+Orion - O (RoboTank):
+Fired at 13 x 19 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 0 x 1
+Fired at 7 x 0 but missed.
+Fired at 5 x 1 but missed.
+Ra-One - R (RoboCop):
+Moved to 9 x 8
+Fired at 0 x 4 but missed.
+Fired at 4 x 5 but missed.
+Fired at 0 x 1 killing S
+Chrono - C (T-RoboCop):
+Moved to 7 x 11
+Fired at 1 x 9 but missed.
+Fired at 4 x 3 but missed.
+Fired at 4 x 6 but missed.
+Ultrabot - U (UltimateRobot):
+Stepped on M at 16 x 5
+Fired at 18 x 3 but missed.
+Fired at 10 x 10 but missed.
+Fired at 17 x 3 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 15
+Fired at 10 x 3 but missed.
+Fired at 19 x 12 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  N  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Mold Seneca 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 2
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+T-RoboCop	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 1	| 0
+
+Mold - M (Madbot) is being revived at 13 x 15
+
+Turn 13
+
+Mold - M (Madbot):
+Fired at 12 x 15 but missed.
+Orion - O (RoboTank):
+Fired at 8 x 15 but missed.
+T-1000 - T (Terminator):
+Moved to 12 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 7
+Fired at 4 x 0 but missed.
+Fired at 1 x 2 but missed.
+Fired at 0 x 6 but missed.
+Chrono - C (T-RoboCop):
+Moved to 8 x 12
+Fired at 6 x 4 but missed.
+Fired at 1 x 9 but missed.
+Fired at 3 x 3 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 4
+Fired at 1 x 10 but missed.
+Fired at 12 x 18 but missed.
+Fired at 2 x 14 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 8 x 14
+Fired at 13 x 0 but missed.
+Fired at 8 x 12 killing C
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  M  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Seneca Chrono 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 2
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+T-RoboCop	|Chrono		|C	| 2	| 1
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Seneca - S (Sentinel) is being revived at 0 x 8
+
+Turn 14
+
+Mold - M (Madbot):
+Fired at 13 x 14 but missed.
+Orion - O (RoboTank):
+Fired at 7 x 15 but missed.
+T-1000 - T (Terminator):
+Moved to 13 x 10
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 1 x 9
+Fired at 7 x 1 but missed.
+Fired at 3 x 2 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 8
+Fired at 1 x 2 but missed.
+Fired at 2 x 3 but missed.
+Fired at 2 x 7 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 16 x 5
+Fired at 12 x 18 but missed.
+Fired at 3 x 0 but missed.
+Fired at 11 x 3 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 9 x 14
+Fired at 12 x 5 but missed.
+Fired at 3 x 19 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  M  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Chrono 
+
+Linked List : Mold --- Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+Madbot		|Mold		|M	| 0	| 2
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+T-RoboCop	|Chrono		|C	| 2	| 1
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Chrono - C (T-RoboCop) is being revived at 13 x 16
+
+Turn 15
+
+Mold - M (Madbot):
+Fired at 13 x 14 but missed.
+Orion - O (RoboTank):
+Fired at 11 x 4 but missed.
+T-1000 - T (Terminator):
+Moved to 12 x 11
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 1 x 8
+Fired at 7 x 3 but missed.
+Fired at 1 x 3 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 9
+Fired at 0 x 3 but missed.
+Fired at 4 x 6 but missed.
+Fired at 5 x 5 but missed.
+Chrono - C (T-RoboCop):
+Stepped on M at 13 x 15
+Fired at 1 x 6 but missed.
+Fired at 0 x 0 but missed.
+Fired at 8 x 2 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 15 x 6
+Fired at 3 x 14 but missed.
+Fired at 8 x 14 but missed.
+Fired at 0 x 8 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 10 x 14
+Fired at 13 x 9 but missed.
+Fired at 4 x 3 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  R  .  .  .  .  N  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+T-RoboCop	|Chrono		|C	| 3	| 1
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 16
+
+Orion - O (RoboTank):
+Fired at 13 x 19 but missed.
+T-1000 - T (Terminator):
+Moved to 11 x 10
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 0 x 8
+Fired at 1 x 0 but missed.
+Fired at 4 x 5 but missed.
+Ra-One - R (RoboCop):
+Moved to 11 x 8
+Fired at 0 x 5 but missed.
+Fired at 5 x 4 but missed.
+Fired at 1 x 8 but missed.
+Chrono - C (UltimateRobot):
+Moved to 14 x 16
+Fired at 6 x 16 but missed.
+Fired at 13 x 16 but missed.
+Fired at 2 x 5 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 16 x 5
+Fired at 0 x 7 but missed.
+Fired at 10 x 17 but missed.
+Fired at 18 x 3 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 11 x 13
+Fired at 0 x 6 but missed.
+Fired at 5 x 13 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  R  .  T  .  .  N  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 17
+
+Orion - O (RoboTank):
+Fired at 18 x 1 but missed.
+T-1000 - T (Terminator):
+Moved to 10 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 0 x 9
+Fired at 8 x 2 but missed.
+Fired at 3 x 3 but missed.
+Ra-One - R (RoboCop):
+Moved to 11 x 7
+Fired at 3 x 3 but missed.
+Fired at 2 x 5 but missed.
+Fired at 7 x 2 but missed.
+Chrono - C (UltimateRobot):
+Moved to 15 x 16
+Fired at 9 x 1 but missed.
+Fired at 10 x 15 but missed.
+Fired at 3 x 16 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 6
+Fired at 18 x 10 but missed.
+Fired at 15 x 2 but missed.
+Fired at 19 x 11 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 12 x 13
+Fired at 16 x 5 but missed.
+Fired at 3 x 8 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 18
+
+Orion - O (RoboTank):
+Fired at 12 x 4 but missed.
+T-1000 - T (Terminator):
+Moved to 9 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 1 x 10
+Fired at 1 x 2 but missed.
+Fired at 2 x 7 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 7
+Fired at 4 x 0 but missed.
+Fired at 3 x 1 but missed.
+Fired at 7 x 1 but missed.
+Chrono - C (UltimateRobot):
+Moved to 15 x 15
+Fired at 3 x 15 but missed.
+Fired at 13 x 15 but missed.
+Fired at 14 x 19 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 5
+Fired at 17 x 2 but missed.
+Fired at 5 x 19 but missed.
+Fired at 2 x 19 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 13 x 14
+Fired at 15 x 14 but missed.
+Fired at 8 x 3 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 19
+
+Orion - O (RoboTank):
+Fired at 6 x 9 but missed.
+T-1000 - T (Terminator):
+Moved to 8 x 10
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 2 x 10
+Fired at 3 x 4 but missed.
+Fired at 2 x 1 but missed.
+Ra-One - R (RoboCop):
+Moved to 9 x 8
+Fired at 2 x 6 but missed.
+Fired at 0 x 5 but missed.
+Fired at 5 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 16 x 14
+Fired at 5 x 3 but missed.
+Fired at 18 x 15 but missed.
+Fired at 8 x 17 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 6
+Fired at 2 x 2 but missed.
+Fired at 8 x 2 but missed.
+Fired at 3 x 17 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 13 x 13
+Fired at 5 x 9 but missed.
+Fired at 0 x 14 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  .  . 
+17  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 20
+
+Orion - O (RoboTank):
+Fired at 9 x 11 but missed.
+T-1000 - T (Terminator):
+Moved to 9 x 10
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 11
+Fired at 9 x 0 but missed.
+Fired at 0 x 3 but missed.
+Ra-One - R (RoboCop):
+Moved to 10 x 9
+Fired at 5 x 1 but missed.
+Fired at 0 x 0 but missed.
+Fired at 3 x 5 but missed.
+Chrono - C (UltimateRobot):
+Moved to 17 x 15
+Fired at 15 x 15 but missed.
+Fired at 19 x 1 but missed.
+Fired at 1 x 7 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 6
+Fired at 7 x 8 but missed.
+Fired at 2 x 14 but missed.
+Fired at 10 x 19 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 13 x 12
+Fired at 10 x 6 but missed.
+Fired at 0 x 6 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  . 
+18  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 0	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 0
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 21
+
+Orion - O (RoboTank):
+Fired at 8 x 9 but missed.
+T-1000 - T (Terminator):
+Stepped on R at 10 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 4 x 12
+Fired at 7 x 2 but missed.
+Fired at 9 x 0 but missed.
+Chrono - C (UltimateRobot):
+Moved to 18 x 14
+Fired at 15 x 15 but missed.
+Fired at 8 x 8 but missed.
+Fired at 8 x 6 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 19 x 5
+Fired at 4 x 17 but missed.
+Fired at 8 x 1 but missed.
+Fired at 7 x 14 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 14 x 11
+Fired at 3 x 7 but missed.
+Fired at 5 x 0 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  .  . 
+19  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Ra-One 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 1
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Ra-One - R (RoboCop) is being revived at 6 x 1
+
+Turn 22
+
+Orion - O (RoboTank):
+Fired at 4 x 6 but missed.
+T-1000 - T (Terminator):
+Moved to 11 x 8
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 12
+Fired at 1 x 4 but missed.
+Fired at 0 x 8 but missed.
+Ra-One - R (RoboCop):
+Moved to 6 x 0
+Fired at 8 x 1 but missed.
+Fired at 0 x 4 but missed.
+Fired at 1 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 17 x 15
+Fired at 8 x 7 but missed.
+Fired at 2 x 4 but missed.
+Fired at 18 x 6 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 6
+Fired at 10 x 5 but missed.
+Fired at 13 x 1 but missed.
+Fired at 1 x 4 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 13 x 10
+Fired at 5 x 17 but missed.
+Fired at 1 x 13 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  N  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  .  . 
+18  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 1
+UltimateRobot	|Chrono		|C	| 0	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 0
+
+Turn 23
+
+Orion - O (RoboTank):
+Fired at 19 x 4 but missed.
+T-1000 - T (Terminator):
+Moved to 12 x 9
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 11
+Fired at 9 x 0 but missed.
+Fired at 9 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 6 x 1
+Fired at 0 x 6 but missed.
+Fired at 1 x 0 but missed.
+Fired at 0 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 18 x 15
+Fired at 13 x 10 killing N
+Fired at 4 x 2 but missed.
+Fired at 4 x 3 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 18 x 7
+Fired at 5 x 18 but missed.
+Fired at 4 x 18 but missed.
+Fired at 9 x 11 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  R  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  O  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  U  .  .  .  .  .  .  .  C  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Nimrod 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 0
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 1	| 2
+RoboCop		|Ra-One		|R	| 1	| 1
+UltimateRobot	|Chrono		|C	| 1	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 1
+
+Nimrod - N (PrimeSentinel) is being revived at 7 x 2
+
+Turn 24
+
+Orion - O (RoboTank):
+Fired at 10 x 8 but missed.
+T-1000 - T (Terminator):
+Moved to 11 x 10
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 4 x 11
+Fired at 6 x 1 killing R
+Fired at 1 x 0 but missed.
+Chrono - C (UltimateRobot):
+Moved to 18 x 16
+Fired at 12 x 1 killing O
+Fired at 6 x 19 but missed.
+Fired at 10 x 13 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 7
+Fired at 17 x 8 but missed.
+Fired at 8 x 5 but missed.
+Fired at 4 x 14 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 3
+Fired at 0 x 5 but missed.
+Fired at 10 x 11 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  U  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Ra-One Orion 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 0
+PrimeSentinel	|Nimrod		|N	| 2	| 1
+
+Ra-One - R (RoboCop) is being revived at 14 x 13
+
+Turn 25
+
+T-1000 - T (Terminator):
+Moved to 10 x 11
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 12
+Fired at 0 x 9 but missed.
+Fired at 8 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 15 x 12
+Fired at 2 x 1 but missed.
+Fired at 5 x 0 but missed.
+Fired at 0 x 6 but missed.
+Chrono - C (UltimateRobot):
+Moved to 18 x 17
+Fired at 19 x 7 but missed.
+Fired at 14 x 8 but missed.
+Fired at 19 x 2 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 17 x 8
+Fired at 7 x 4 but missed.
+Fired at 19 x 10 but missed.
+Fired at 0 x 4 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 8 x 3
+Fired at 8 x 6 but missed.
+Fired at 17 x 8 killing U
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Orion Ultrabot 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 1
+
+Orion - O (RoboTank) is being revived at 18 x 4
+
+Turn 26
+
+Orion - O (RoboTank):
+Fired at 13 x 15 but missed.
+T-1000 - T (Terminator):
+Moved to 9 x 12
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 13
+Fired at 4 x 1 but missed.
+Fired at 1 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 14 x 12
+Fired at 3 x 4 but missed.
+Fired at 1 x 5 but missed.
+Fired at 1 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 17 x 18
+Fired at 19 x 18 but missed.
+Fired at 0 x 7 but missed.
+Fired at 16 x 13 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 7 x 3
+Fired at 4 x 5 but missed.
+Fired at 9 x 18 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  . 
+18  .  .  .  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Ultrabot 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 1
+
+Ultrabot - U (UltimateRobot) is being revived at 6 x 1
+
+Turn 27
+
+Orion - O (RoboTank):
+Fired at 8 x 7 but missed.
+T-1000 - T (Terminator):
+Moved to 8 x 12
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 12
+Fired at 3 x 1 but missed.
+Fired at 0 x 2 but missed.
+Ra-One - R (RoboCop):
+Moved to 14 x 13
+Fired at 5 x 4 but missed.
+Fired at 1 x 3 but missed.
+Fired at 4 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 16 x 19
+Fired at 8 x 8 but missed.
+Fired at 0 x 12 but missed.
+Fired at 15 x 7 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 5 x 1
+Fired at 16 x 16 but missed.
+Fired at 19 x 18 but missed.
+Fired at 18 x 9 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 6 x 3
+Fired at 1 x 16 but missed.
+Fired at 15 x 11 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  .  . 
+04  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 1
+
+Turn 28
+
+Orion - O (RoboTank):
+Fired at 12 x 14 but missed.
+T-1000 - T (Terminator):
+Moved to 7 x 13
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 4 x 13
+Fired at 1 x 2 but missed.
+Fired at 1 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 13 x 14
+Fired at 2 x 8 but missed.
+Fired at 6 x 2 but missed.
+Fired at 6 x 1 but missed.
+Chrono - C (UltimateRobot):
+Moved to 15 x 18
+Fired at 5 x 4 but missed.
+Fired at 3 x 0 but missed.
+Fired at 2 x 19 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 4 x 0
+Fired at 5 x 16 but missed.
+Fired at 2 x 19 but missed.
+Fired at 6 x 6 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 5 x 2
+Fired at 13 x 16 but missed.
+Fired at 5 x 17 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  U  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  .  . 
+05  .  .  N  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 1
+
+Turn 29
+
+Orion - O (RoboTank):
+Fired at 11 x 0 but missed.
+T-1000 - T (Terminator):
+Moved to 6 x 14
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 4 x 14
+Fired at 5 x 4 but missed.
+Fired at 6 x 3 but missed.
+Ra-One - R (RoboCop):
+Moved to 14 x 14
+Fired at 3 x 4 but missed.
+Fired at 2 x 8 but missed.
+Fired at 2 x 3 but missed.
+Chrono - C (UltimateRobot):
+Moved to 15 x 19
+Fired at 18 x 0 but missed.
+Fired at 7 x 0 but missed.
+Fired at 7 x 7 but missed.
+Ultrabot - U (UltimateRobot):
+Moved to 3 x 1
+Fired at 4 x 16 but missed.
+Fired at 2 x 19 but missed.
+Fired at 3 x 19 but missed.
+Nimrod - N (PrimeSentinel):
+Moved to 4 x 2
+Fired at 0 x 5 but missed.
+Fired at 15 x 9 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+04  .  .  N  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 1	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 1
+
+Turn 30
+
+Orion - O (RoboTank):
+Fired at 1 x 4 but missed.
+T-1000 - T (Terminator):
+Moved to 6 x 15
+Bast - B (BlueThunder):
+Fired at 8 x 19 but missed.
+Seneca - S (Sentinel):
+Moved to 3 x 15
+Fired at 4 x 1 but missed.
+Fired at 3 x 0 but missed.
+Ra-One - R (RoboCop):
+Moved to 15 x 13
+Fired at 7 x 1 but missed.
+Fired at 7 x 0 but missed.
+Fired at 5 x 0 but missed.
+Chrono - C (UltimateRobot):
+Moved to 16 x 18
+Fired at 15 x 3 but missed.
+Fired at 13 x 11 but missed.
+Fired at 5 x 13 but missed.
+Ultrabot - U (UltimateRobot):
+Stepped on N at 4 x 2
+Fired at 18 x 5 but missed.
+Fired at 13 x 2 but missed.
+Fired at 10 x 19 but missed.
+
+   00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 
+00  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+01  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+02  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+03  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  S  .  .  .  . 
+04  .  .  U  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+05  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+06  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  T  .  .  .  . 
+07  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+08  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+09  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  B 
+10  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+11  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+12  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+13  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+14  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+15  .  .  .  .  .  .  .  .  .  .  .  .  .  R  .  .  .  .  .  . 
+16  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  C  . 
+17  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+18  .  .  .  .  O  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+19  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+
+Queue: Nimrod 
+
+Linked List : Orion --- T-1000 --- Bast --- Seneca --- Ra-One --- Chrono --- Ultrabot --- Nimrod --- 
+
+Robot		| Name		| Icon	| Kills	| Deaths
+-------------------------------------------------------------
+RoboTank	|Orion		|O	| 0	| 1
+Terminator	|T-1000		|T	| 1	| 0
+BlueThunder	|Bast		|B	| 0	| 2
+Sentinel	|Seneca		|S	| 2	| 2
+RoboCop		|Ra-One		|R	| 1	| 2
+UltimateRobot	|Chrono		|C	| 2	| 0
+UltimateRobot	|Ultrabot	|U	| 2	| 1
+PrimeSentinel	|Nimrod		|N	| 3	| 2
+
+Nimrod - N (PrimeSentinel) is being revived at 17 x 16
+

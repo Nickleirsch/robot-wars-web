@@ -1,0 +1,10 @@
+M by N : 10 10
+steps: 30
+robots: 7
+Madbot Mold 3 6
+RoboTank Orion 9 1
+Terminator T-1000 4 random
+BlueThunder Bast random random
+Sentinel Seneca 5 5
+RoboCop Ra-One 1 1
+TerminatorRoboCop Chrono 8 8
